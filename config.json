@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100014754734049",
+    "61592891796221",
     "61552591230081"
   ],
   "vip": [
-    "100014754734049",
+    "61592891796221",
     "61552591230081"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [100014754734049],
+    "whiteListIds": [61592891796221],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "🪽🐰 Your Baby🔥🩷",
